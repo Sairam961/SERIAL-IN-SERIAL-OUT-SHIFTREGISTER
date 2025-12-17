@@ -57,6 +57,16 @@ endmodule
 
 **RTL LOGIC FOR SISO Shift Register**
 
+ <img width="728" height="385" alt="image" src="https://github.com/user-attachments/assets/1e37317a-e448-4ab9-bec7-2ad477f53a1a" />
+
+
 **TIMING DIGRAMS FOR SISO Shift Register**
 
+ <img width="1280" height="762" alt="image" src="https://github.com/user-attachments/assets/2c211ab5-e945-49bd-bb3b-d591d97fbbfa" />
+
+
 **RESULTS**
+
+ Thus the Serial-In Serial-Out shift register is implemented and verified.
+
+
